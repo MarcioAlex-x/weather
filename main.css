@@ -4,6 +4,13 @@
     box-sizing: border-box;
     font-family: "Ubuntu", sans-serif;
 }
+.hide{
+    display: none;
+}
+.waitingReponse{
+    display: block;
+    text-align: center;
+}
 h1{
     text-align: center;
     font-size: 48px;
